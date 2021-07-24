@@ -1,0 +1,57 @@
+*{
+    margin: 25px;
+   
+    
+}
+
+.body{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.title{
+ text-align: center;
+ font-size: 25px;
+ border: solid 2px rgb(154, 167, 167);
+ padding: 4px;
+ 
+}
+
+.navbar{
+    align-items: center;
+    background-color:rgb(212, 209, 209);
+    padding: 20px;
+
+}
+
+nav a{
+    align-items: center;
+    padding: 15px;
+    color:black;
+    border: solid 1px rgb(184, 184, 189);
+    border-radius: 10px;
+    background-color: rgb(234, 234, 243);
+    
+}
+a:hover{
+    color: rgb(4, 62, 250);
+}
+.sub_headings{
+    margin-top: 5%;
+    font-size: 30px;
+    font-style:italic;
+}
+
+.sub_headings:hover{
+    color: blue;
+}
+
+.list{
+    line-height:5px ;
+}
+
+.code{
+    padding: 20px;
+    background-color: rgb(231, 224, 224);
+    font-family: monospace;
+
+}
